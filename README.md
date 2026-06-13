@@ -21,7 +21,6 @@ A Python Tkinter application for credit risk assessment.
 
 - kredi_skorlama.py → Main application
 - kredi_basvurulari.csv → Sample application data
-- ekran_görüntüleri/ → Project screenshots
 
 ## Author
 
