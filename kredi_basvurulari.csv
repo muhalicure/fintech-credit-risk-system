@@ -1,0 +1,5 @@
+﻿banka,ad_soyad,gelir,gider,borc,skor,risk,karar
+Ziraat Bankası,Karem Kengel,560000.0,120000.0,0.0,90,Düşük Risk,Kredi Onaylanabilir
+Ziraat Bankası,Muhammed Ali Cüre,14000.0,6000.0,600000.0,38,Yüksek Risk,Kredi Reddedilebilir
+Ziraat Bankası,Liya Verimer,400000.0,90000.0,0.0,100,Düşük 
+Ziraat Bankası,Ali Cüre,35000.0,14000.0,230000.0,53,Yüksek Risk,Kredi Reddedilebilir
